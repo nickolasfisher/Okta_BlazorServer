@@ -1,6 +1,6 @@
-# React Routing
+# Set up MFA in .NET with Blazor Server-Side
 
-This repository shows you how to use Okta in a React application without the benefit of `react-router`. Please read [React Routing][blog] to see how it was created.
+This repository shows you how to use Okta in a Blazor server side application with Multi Factor Authentication. Please read [Set up MFA in .NET with Blazor Server-Side][blog] to see how it was created.
 
 **Prerequisites:**
 
