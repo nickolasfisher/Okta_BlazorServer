@@ -42,8 +42,8 @@ okta apps create
 You will be prompted to select the following options:
 - Type of Application: **1: Web**
 - Framework of Application: **Other**
-- Redirect URI: `https://localhost:53891/callback`
-- Post Logout Redirect URI: `https://localhost:53891/`
+- Redirect URI: `https://localhost:44378/callback`
+- Post Logout Redirect URI: `https://localhost:44378/`
 
 The application configuration will be printed to `.okta.env`.
 
@@ -94,7 +94,7 @@ Press **Save**.
 
 Start the Application.
 
-Open `http://localhost:53891` in your favorite browser and you should be able to see the home page.
+Open `https://localhost:44378` in your favorite browser and you should be able to see the home page.
 
 ## Links
 
