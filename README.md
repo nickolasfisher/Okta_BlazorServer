@@ -43,7 +43,7 @@ You will be prompted to select the following options:
 - Type of Application: **1: Web**
 - Framework of Application: **Other**
 - Redirect URI: `https://localhost:44378/callback`
-- Post Logout Redirect URI: `https://localhost:44378/`
+- Post Logout Redirect URI: `https://localhost:44378/signout/callback`
 
 The application configuration will be printed to `.okta.env`.
 
